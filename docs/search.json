@@ -21,10 +21,17 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "posts/new post/index.html",
+    "href": "posts/new post/index.html",
+    "title": "new-post",
+    "section": "",
+    "text": "Hello"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "first_try_blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 16, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 13, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "new-post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 16, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 13, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   }
 ]

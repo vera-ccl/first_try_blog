@@ -66,5 +66,22 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
   <pubDate>Fri, 12 Jun 2026 14:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>new-post</title>
+  <link>https://your-website-url.example.com/posts/new post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Hello</p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/new post/</guid>
+  <pubDate>Tue, 16 Jun 2026 02:32:01 GMT</pubDate>
+</item>
 </channel>
 </rss>
